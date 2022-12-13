@@ -1,6 +1,6 @@
 baseURL = 'https://rira12621.github.io/reinecke-und-partner.de'
 languageCode = 'de-de'
-title = 'My New Hugo Site'
+title = 'Reinecke und Partner'
 defaultContentLanguage = "de"
 paginate = "7"
 theme = "spectral"
