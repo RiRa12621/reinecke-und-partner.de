@@ -6,27 +6,14 @@ paginate = "7"
 theme = "spectral"
 
 [params]
-fancyTitle = "Spectral" # title for frontpage, may include image
-copyright = "John Doe"
-description = 'Another fine responsive<br />site template freebie<br />crafted by <a href="http://html5up.net">HTML5 UP</a>.<br />Ported to <a href="//gohugo.io">Hugo</a> by Simon Bruder.'
-startbuttonText = "Activate"
-startbuttonLink = "#"
+fancyTitle = "Reinecke und Partner" # title for frontpage, may include image
+copyright = "Reinecke und Partner"
+description = 'Typenoffene Werkstatt Ihres Vetrauens'
+startbuttonText = "Kontakt"
+startbuttonLink = "#contact"
 body_is_markdown = true
-#custom_css = "foo.css"
 #images = ["path_to_social_image_for_link_previews.jpg"]
 
-[[params.menu.main]]
-url = '/'
-title = "Home"
-
-[[params.menu.main]]
-url = '/posts/'
-title = "Posts"
-
-[taxonomies]
-tag = "tags"
-category = "categories"
-series = "series"
 
 [params.one]
 enable = true
@@ -108,19 +95,19 @@ title = "Nothing important"
 body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
 [params.cta]
-enable = true
+enable = false
 title = "Arcue ut vel commodo"
 body = "Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla."
 
-[[params.cta.link]]
-href = "#"
-text = "Activate"
-special = true
+#[[params.cta.link]]
+#href = "#"
+#text = "Activate"
+#special = true
 
-[[params.cta.link]]
-href = "#"
-text = "Learn More"
-special = false
+#[[params.cta.link]]
+#href = "#"
+#text = "Learn More"
+#special = false
 
 [params.contact]
 enable = true
@@ -130,7 +117,7 @@ phone = "+49 (0) 030 2977783"
 address = "Rummelsburger Landstraße 98<br />12459 Berlin <br />"
 email = "info@reinecke-und-partner.de"
 subject = "Werkstattanfrage"
-formspree_form_id = "example_invalid"
+formspree_form_id = "xbjbnvdb"
 
 #[params.social]
 #twitter = ""
