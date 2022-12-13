@@ -16,27 +16,27 @@ body_is_markdown = true
 
 
 [params.one]
-enable = true
+enable = false
 title = 'Arcu aliquet vel lobortis ata nisl<br />eget augue amet aliquet nisl cep donec'
 body = '''
 Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend
 fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
 '''
 
-[[params.one.icon]]
-icon = "fa-diamond"
-style = "1"
-label = "Lorem"
+#[[params.one.icon]]
+#icon = "fa-diamond"
+#style = "1"
+#label = "Lorem"
 
-[[params.one.icon]]
-icon = "fa-heart-o"
-style = "2"
-label = "Ipsum"
+#[[params.one.icon]]
+#icon = "fa-diamond"
+#style = "2"
+#label = "Ipsum"
 
-[[params.one.icon]]
-icon = "fa-code"
-style = "3"
-label = "Dolor"
+#[[params.one.icon]]
+#icon = "fa-code"
+#style = "3"
+#label = "Dolor"
 
 [params.two]
 enable = true
