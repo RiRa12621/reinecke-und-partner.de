@@ -1,4 +1,3 @@
-#baseURL = 'https://reinecke-und-partner.de/'
 baseURL = 'https://rira12621.github.io/reinecke-und-partner.de'
 languageCode = 'de-de'
 title = 'My New Hugo Site'
