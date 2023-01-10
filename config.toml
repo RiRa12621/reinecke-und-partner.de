@@ -1,13 +1,13 @@
 baseURL = 'https://rira12621.github.io/reinecke-und-partner.de'
 languageCode = 'de-de'
-title = 'Reinecke und Partner'
+title = 'Autowerkstatt Reinecke und Partner'
 defaultContentLanguage = "de"
 paginate = "7"
 theme = "spectral"
 
 [params]
-fancyTitle = "Reinecke und Partner" # title for frontpage, may include image
-copyright = "Reinecke und Partner"
+fancyTitle = "Autowerkstatt<br /> Reinecke und Partner"
+copyright = "Autowerkstatt Reinecke und Partner GmbH"
 description = 'Typenoffene Werkstatt Ihres Vetrauens'
 startbuttonText = "Kontakt"
 startbuttonLink = "#contact"
