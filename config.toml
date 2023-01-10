@@ -43,18 +43,33 @@ enable = true
 
 [[params.two.section]]
 img = "img/pic01.jpg"
-title = 'Magna primis lobortis<br />sed ullamcorper'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+title = 'Wir für Sie - <br />Unsere Leistungen:'
+body = '''
+* Werkstattservice / Typenoffen<br />
+* Haupt- und Abgasuntersuchung im  Haus<br />
+* Unfallinstandsetzung<br />
+* Karosserie- und Lackierarbeiten<br />
+* Teile- und Zubehörverkauf<br />
+'''
 
 [[params.two.section]]
 img = "img/pic02.jpg"
-title = 'Tortor dolore feugiat<br />elementum magna'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+title = 'Öffnungszeiten:'
+body = '''
+* Montag - Donnerstag: 7:00 - 18:00 Uhr<br />
+* Freitag: 7:00 - 16:00 Uhr<br />
+'''
 
 [[params.two.section]]
 img = "img/pic03.jpg"
-title = 'Magna primis lobortis<br />sed ullamcorper'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+title = 'Sie finden uns<br />am neuen Standort:'
+body = '''
+Autowerkstatt Reinecke und Partner GmbH
+
+Rummelsburger Landstraße 98
+
+12459 Berlin
+'''
 
 [params.three]
 enable = false
