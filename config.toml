@@ -62,7 +62,7 @@ body = '''
 
 [[params.two.section]]
 #img = "img/pic03.jpg"
-title = 'Sie finden uns<br />am neuen Standort:'
+title = 'Sie finden uns<br /> am neuen Standort:'
 body = '''
 Autowerkstatt Reinecke und Partner GmbH
 
